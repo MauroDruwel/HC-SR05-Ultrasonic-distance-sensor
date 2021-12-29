@@ -1,7 +1,7 @@
 # WPSE477 Force sensing resistor sensor module
 
-This example shows how to measure the output of the FSR (Force Sensing Resistor) module with an Arduino® compatible board.
-The example program reads the analog signal output from the S-pin on the module and prints the result in the serial monitor.
+This example shows how to measure the output of HC-SR05 ultrasonic distance sensor with an Arduino® compatible board.
+The example program prints the distance between the sensor and an object.
 
 ## Library dependencies
 * None
@@ -10,5 +10,5 @@ The example program reads the analog signal output from the S-pin on the module 
 ![](./wiring_diagram_bb.png)
 
 ## Additional information
-  For more information about the Whadda WPSE477 force sensing resistor sensor module, check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda WPSE306 HC-SR05 ultrasonic distance sensor, check the manual available at [whadda.com](https://whadda.com)
 
