@@ -1,4 +1,4 @@
-# WPSE477 Force sensing resistor sensor module
+# WPSE306 HC-SR05 ultrasonic distance sensor
 
 This example shows how to measure the output of HC-SR05 ultrasonic distance sensor with an Arduino® compatible board.
 The example program prints the distance between the sensor and an object.
